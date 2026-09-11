@@ -67,7 +67,8 @@
 
 ## 📦 โปรดักต์ของเรา
 
-**WorkDee** — ระบบ HR และสรรหาพนักงาน
+**[WorkDee](https://workdee.org/)** — แพลตฟอร์มหางานโรงงาน งานรายวัน และงานประจำ
+รวมงานจากเอเจนซีและโรงงานทั่วประเทศ ดูค่าแรงและสวัสดิการก่อนสมัคร สมัครออนไลน์ฟรี
 
 ---
 
@@ -137,7 +138,8 @@
 
 ### Our products
 
-**WorkDee** — HR and recruitment platform
+**[WorkDee](https://workdee.org/)** — a job marketplace for factory, daily and full-time work in Thailand.
+Listings from agencies and factories nationwide, with pay and benefits shown upfront.
 
 ### Contact
 
